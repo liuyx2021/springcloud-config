@@ -1,1 +1,2 @@
-dev profile
+config:
+  info: this is dev profile
