@@ -1,1 +1,2 @@
-prod profile
+config:
+  info: this is prod profile
